@@ -9,7 +9,7 @@
 - Learning Rate Finder 
 - Write Coustom CallBack
 - Using pretrainded model
-- 
+- Flowers problem using tf.data (CNN, classification)
 - Cat vs Dog problem using tf.data (CNN, classification)
 
 ---

@@ -1,4 +1,4 @@
-## **Deep Learning and Computer Vision Course**
+## **Deep Learning and Computer Vision Course 2022**
 
 
 - Iris problem (Dense, classification)

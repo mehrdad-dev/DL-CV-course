@@ -26,7 +26,7 @@
 - Cost and error function
 - Multilayer neural network
 - Neural network optimization
-- Implementation in Tensorflow / Cross framework
+- Implementation in Tensorflow / Keras framework
 
 **Deep neural networks:**
 - Convolutional neural networks
